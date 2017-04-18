@@ -1,0 +1,10 @@
+.navbar-brand>img {
+  height: 70px;
+  padding: 2px; /* firefox bug fix */
+  width: 150px;
+}
+.navbar {min-height: 100px;}
+.navbar-brand {padding: 15px; height: 80px; line-height: 80px;}
+
+.nav{padding: 20px;}
+
